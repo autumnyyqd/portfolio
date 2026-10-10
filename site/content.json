@@ -1,79 +1,100 @@
 {
   "$schema": "./content.schema.json",
   "language": "en",
-  "name": "Ada Example",
-  "headline": "Frontend developer who likes fast, accessible web pages",
-  "photo": {
-    "src": "assets/avatar.svg",
-    "alt": "Ada Example's avatar: a simple drawing of a head and shoulders in two shades of grey"
+  "name": "Yanqiu Autumn Dai, CFA",
+  "headline": "Transnational Strategy & Capital Alignment",
+  "pitch": "Work for tomorrow.",
+  "location": {
+    "city": "Shanghai",
+    "country": "China",
+    "timeZone": "Asia/Shanghai"
   },
-  "pitch": "I build small, fast websites that everyone can use, and I explain every choice in plain words.",
-  "highlights": [
-    { "text": "Every page I look after scores 100 for accessibility in Lighthouse" },
-    { "text": "Five years of teaching maths: I make technical choices easy to follow" },
-    { "text": "Two open-source projects on GitHub", "url": "https://github.com/octocat" }
-  ],
-  "availability": {
-    "text": "Open to junior frontend roles from January 2027.",
-    "actionLabel": "Write to me",
-    "actionUrl": "mailto:ada@example.com"
-  },
-  "location": { "city": "Milan", "country": "Italy", "timeZone": "Europe/Rome" },
   "languages": [
+    { "name": "Mandarin", "level": "native" },
     { "name": "English", "level": "native" },
-    { "name": "Italian", "level": "B2" }
+    { "name": "Cantonese", "level": "B1" },
+    { "name": "Spanish", "level": "B1" },
+    { "name": "French", "level": "A2" }
   ],
   "bio": [
-    "I build small, fast websites and the tools around them. Before I wrote code, I taught maths, so I still enjoy explaining things simply.",
-    "This is a sample portfolio of a fictional person. Replace it with your own story."
-  ],
-  "projects": [
-    {
-      "title": "Tide Tables",
-      "description": "A tiny web app that shows today's tides for a chosen harbour, built with plain HTML, CSS and JavaScript.",
-      "github": "https://github.com/octocat/Hello-World"
-    },
-    {
-      "title": "Reading Log",
-      "description": "A static site that lists the books I read, generated from one JSON file.",
-      "github": "https://github.com/octocat/Spoon-Knife",
-      "url": "https://octocat.github.io/Spoon-Knife/"
-    }
+    "I work on projects of transnational investment, industrial collaboration, and technology transfer spanning renewable energy, photonics, and AI technologies.",
+    "As a strategist and entrepreneurial financial professional, I combine finance, economics, law, and sustainable development to design cross-border collaborations and structured financing solutions."
   ],
   "links": [
-    { "label": "GitHub", "url": "https://github.com/octocat" },
-    { "label": "LinkedIn", "url": "https://www.linkedin.com/in/ada-example" },
-    { "label": "Email", "url": "mailto:ada@example.com" }
+    { "label": "LinkedIn", "url": "https://www.linkedin.com/in/yanqiu-autumn-dai" },
+    { "label": "Email", "url": "mailto:yqdai7@gmail.com" }
   ],
   "cv": {
     "experience": [
       {
-        "role": "Junior Frontend Developer",
-        "organization": "Example Studio",
-        "start": "2024",
+        "role": "Partner",
+        "organization": "Rovexity",
+        "start": "2021",
         "end": "present",
-        "summary": "Build and maintain marketing sites; brought every page to a Lighthouse accessibility score of 100."
+        "summary": "Transnational project role building synergy between China and European industrial partners and tech teams."
       },
       {
-        "role": "Maths Teacher",
-        "organization": "Example Secondary School",
-        "start": "2019",
-        "end": "2024",
-        "summary": "Taught maths to students aged 11 to 16 and ran the after-school coding club."
+        "role": "Executive Committee Member",
+        "organization": "Shenzhen Supply Chain Finance Association",
+        "start": "2025",
+        "end": "present",
+        "summary": "Executive committee member supporting supply chain finance initiatives."
+      },
+      {
+        "role": "Regional Business Development",
+        "organization": "Barker Langham",
+        "start": "2018",
+        "end": "2020",
+        "summary": "Led business development in a new regional market, expanding China operations and client relationships."
       }
     ],
     "education": [
       {
-        "title": "Web Development Bootcamp",
-        "organization": "Example Academy",
-        "year": "2023"
+        "title": "Master's Degree, Anthropology",
+        "organization": "University of Oxford"
       },
       {
-        "title": "BSc Mathematics",
-        "organization": "Example University",
-        "year": "2018"
+        "title": "Bachelor's Degree, Finance; International Relations; Art History",
+        "organization": "University of Southern California"
+      },
+      {
+        "title": "Master's degree & LLM, International Law; Human Centred Artificial Intelligence (Neuro AI)",
+        "organization": "Università degli Studi di Milano"
       }
     ],
-    "skills": ["HTML", "CSS", "JavaScript", "Accessibility", "Git"]
-  }
+    "skills": [
+      "Technology Transfer",
+      "European Law",
+      "Financial Planning",
+      "Renewable Energy",
+      "Structured Financing",
+      "Cross-border Collaboration"
+    ]
+  },
+  "certifications": [
+    {
+      "name": "Building A Business",
+      "issuer": "Saïd Business School, University of Oxford",
+      "kind": "course",
+      "issued": "2020-01"
+    }
+  ],
+  "builtAt": {
+    "event": "DevFest Milano 2026",
+    "date": "2026-10-10"
+  },
+  "events": [
+    {
+      "name": "DevFest Milano 2026",
+      "date": "2026-10-10",
+      "city": "Milan",
+      "role": "attendee",
+      "sessions": [
+        {
+          "type": "workshop",
+          "title": "AI-Native Web Development, Hands-On"
+        }
+      ]
+    }
+  ]
 }

@@ -1,27 +1,32 @@
 # Site spec
 
-Written by the Analyst from: interview. This is the spec of the sample person, Ada Example, who is fictional. The Analyst role replaces it with yours.
+Written by the Analyst from: CV.
 
 ## Who
-Ada Example, frontend developer who likes fast, accessible web pages.
+Yanqiu Autumn Dai, CFA, Transnational Strategy & Capital Alignment.
+
+## Goal
+Personal career page.
 
 ## For whom
-Recruiters and teams hiring a junior frontend developer.
+(a guess) Institutional partners, investors, technology companies, and executive recruiters looking for expertise in cross-border industrial strategy, technology deployment, and financing.
 
 ## What a visitor should do
-Look at the projects on GitHub, then write an email.
+(a guess) Reach out via email or connect on LinkedIn to discuss strategic partnerships or career opportunities.
 
 ## Language
 English (en).
 
 ## Sections
-- Bio: two paragraphs.
-- Projects: two.
-- Links: GitHub, LinkedIn, email.
-- CV: experience, education and skills.
+- First screen: the pitch ("Work for tomorrow."), Shanghai and languages (Mandarin, English, Cantonese, Spanish, French).
+- Bio: 2 paragraphs on transnational investment, industrial collaboration, technology transfer, and cross-border finance.
+- Projects: none yet.
+- Links: LinkedIn, Email.
+- CV: experience (3 roles), education (3 degrees), and skills (6 skills).
+- Certifications and events: 1 course certification ("Building A Business") and 1 event (DevFest Milano 2026 workshop).
 
 ## Left out on purpose
-Nothing.
+Projects without GitHub links, phone number, and postal/VAT legal address as requested.
 
 ## Later
-A blog, as an optional module.
+Nothing yet.
